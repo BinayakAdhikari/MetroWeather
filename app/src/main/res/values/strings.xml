@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MetroWeather</string>
+    <string name="cancel">cancelled</string>
+    <string name="GPSAlertDialogTitle">Gps alert</string>
+    <string name="GPSAlertDialogMessage">dialog message</string>
+    <string name="action_settings">Settings</string>
+</resources>
